@@ -1,5 +1,3 @@
-# my-website
-index.html
 <!DOCTYPE html>
 <html>
 <head>
